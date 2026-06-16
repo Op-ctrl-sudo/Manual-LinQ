@@ -8,7 +8,6 @@ Fue introducida como parte de .NET y es una parte integral de lenguajes modernos
 - LINQ to Objects
 - LINQ to SQL
 - LINQ to XML
-- LINQ to Entities
 # Caracteristicas de LinQ
 - Sintaxis Integrada
 - Tipado Fuerte
