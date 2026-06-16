@@ -13,5 +13,3 @@ Fue introducida como parte de .NET y es una parte integral de lenguajes modernos
 - Tipado Fuerte
 - Optimización Automática
 - Flexibilidad
-- Consistencia
-- Mejora de la Legibilidad
